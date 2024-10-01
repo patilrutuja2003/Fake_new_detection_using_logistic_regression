@@ -5,8 +5,11 @@ The "Fake News Detection Using Logistic Regression" project aims to develop an e
 
 Objectives:
 Data Collection: The project involves gathering a comprehensive dataset of news articles, both real and fake, from reliable sources and fact-checking websites.
+
 Feature Extraction: Key features will be extracted from the text data, such as word frequency, sentiment analysis, and other linguistic properties, to enhance the model's predictive capability.
+
 Model Development: Utilizing logistic regression, a statistical method suitable for binary classification tasks, the project will train the model on the extracted features to accurately predict the authenticity of news articles.
+
 Evaluation: The model’s performance will be assessed using various metrics, such as accuracy, precision, recall, and F1-score, to ensure reliability and effectiveness in real-world applications.
 
 Technologies Used:
